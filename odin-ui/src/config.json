@@ -1,0 +1,5 @@
+{
+    "MAPBOX_TOKEN": "pk.eyJ1IjoibGFpbW9uYXMtc3VjaG9ja2FzIiwiYSI6ImNsaGt2OHd2czB2cWgzZW51YmZpM3p6OXEifQ.gsjpGhr_U6Nq_IxMKGLsZg",
+    "SERVER_URL": "http://localhost",
+    "SERVER_PORT": "8000"
+}

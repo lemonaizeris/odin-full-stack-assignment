@@ -7,8 +7,11 @@
     "@types/node": "^16.18.12",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
+    "axios": "^1.4.0",
+    "mapbox-gl": "^2.14.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-map-gl": "^7.0.23",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5"
   },
