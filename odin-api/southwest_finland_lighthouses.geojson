@@ -1,0 +1,1543 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-05-13T17:29:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39007334",
+        "addr:housenumber": "18",
+        "addr:street": "Utö Fyrbacken",
+        "building": "yes",
+        "man_made": "lighthouse",
+        "name": "Utö Fyr",
+        "name:fi": "Utön majakka",
+        "wikidata": "Q11899745",
+        "wikipedia": "fi:Utön majakka"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.3688382,
+              59.7808774
+            ],
+            [
+              21.3690117,
+              59.7808876
+            ],
+            [
+              21.3689861,
+              59.7809977
+            ],
+            [
+              21.3689394,
+              59.780995
+            ],
+            [
+              21.3689187,
+              59.7809937
+            ],
+            [
+              21.368907,
+              59.7810441
+            ],
+            [
+              21.3688009,
+              59.7810379
+            ],
+            [
+              21.3688382,
+              59.7808774
+            ]
+          ]
+        ]
+      },
+      "id": "way/39007334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372426482",
+        "building": "tower",
+        "building:colour": "white",
+        "building:part": "yes",
+        "height": "5",
+        "man_made": "lighthouse",
+        "name": "Isokarin majakka",
+        "name:en": "Isokari lighthouse",
+        "name:fi": "Isokarin majakka",
+        "name:sv": "Enskärs fyr",
+        "seamark:landmark:category": "tower",
+        "seamark:landmark:height": "49.5",
+        "seamark:light:character": "LFl",
+        "seamark:light:colour": "white",
+        "seamark:light:height": "49.5",
+        "seamark:light:period": "20",
+        "seamark:light:range": "19",
+        "seamark:name": "Isokari Lighthouse",
+        "seamark:type": "landmark",
+        "wikidata": "Q31825396",
+        "wikipedia": "fi:Isokarin majakka"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.0114028,
+              60.7183274
+            ],
+            [
+              21.0113878,
+              60.7183136
+            ],
+            [
+              21.011383,
+              60.7182989
+            ],
+            [
+              21.0113883,
+              60.7182841
+            ],
+            [
+              21.011403,
+              60.7182712
+            ],
+            [
+              21.0114255,
+              60.7182612
+            ],
+            [
+              21.0114536,
+              60.7182553
+            ],
+            [
+              21.0114838,
+              60.7182543
+            ],
+            [
+              21.0115134,
+              60.718258
+            ],
+            [
+              21.0115397,
+              60.7182666
+            ],
+            [
+              21.0115582,
+              60.7182784
+            ],
+            [
+              21.0115679,
+              60.7182926
+            ],
+            [
+              21.0115678,
+              60.7183072
+            ],
+            [
+              21.0115576,
+              60.7183214
+            ],
+            [
+              21.0115382,
+              60.7183333
+            ],
+            [
+              21.0115126,
+              60.7183414
+            ],
+            [
+              21.0114831,
+              60.7183449
+            ],
+            [
+              21.0114528,
+              60.7183436
+            ],
+            [
+              21.011425,
+              60.7183375
+            ],
+            [
+              21.0114028,
+              60.7183274
+            ]
+          ]
+        ]
+      },
+      "id": "way/372426482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/979786366",
+        "building": "yes",
+        "building:material": "concrete",
+        "disused": "yes",
+        "disused:airmark": "beacon",
+        "man_made": "lighthouse",
+        "name": "Pansion lentomajakka",
+        "start_date": "1932",
+        "wikidata": "Q11886608",
+        "wikipedia": "fi:Pansion lentomajakka"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.1695559,
+              60.4530505
+            ],
+            [
+              22.1695683,
+              60.4530516
+            ],
+            [
+              22.1695789,
+              60.453055
+            ],
+            [
+              22.1695861,
+              60.4530601
+            ],
+            [
+              22.1695887,
+              60.4530662
+            ],
+            [
+              22.1695864,
+              60.4530724
+            ],
+            [
+              22.1695795,
+              60.4530776
+            ],
+            [
+              22.1695691,
+              60.4530811
+            ],
+            [
+              22.1695567,
+              60.4530824
+            ],
+            [
+              22.1695443,
+              60.4530813
+            ],
+            [
+              22.1695337,
+              60.4530779
+            ],
+            [
+              22.1695265,
+              60.4530727
+            ],
+            [
+              22.1695239,
+              60.4530666
+            ],
+            [
+              22.1695262,
+              60.4530605
+            ],
+            [
+              22.1695331,
+              60.4530553
+            ],
+            [
+              22.1695435,
+              60.4530517
+            ],
+            [
+              22.1695559,
+              60.4530505
+            ]
+          ]
+        ]
+      },
+      "id": "way/979786366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/377696419",
+        "height": "6",
+        "man_made": "lighthouse",
+        "name": "Kärrholm 's fyr / majakka",
+        "operator": "Väylävirasto / Trafikledsverket",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "4",
+        "seamark:light:1:period": "3",
+        "seamark:light:1:range": "5",
+        "seamark:light:1:sector_end": "244",
+        "seamark:light:1:sector_start": "169",
+        "seamark:light:1:sequence": "0.3+(0.3)+0.3+(2.1)",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:group": "2",
+        "seamark:light:2:height": "4",
+        "seamark:light:2:period": "3",
+        "seamark:light:2:range": "5",
+        "seamark:light:2:sector_end": "258.5",
+        "seamark:light:2:sector_start": "244",
+        "seamark:light:2:sequence": "0.3+(0.3)+0.3+(2.1)",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:group": "2",
+        "seamark:light:3:height": "4",
+        "seamark:light:3:period": "3",
+        "seamark:light:3:range": "5",
+        "seamark:light:3:sector_end": "131",
+        "seamark:light:3:sector_start": "113.5",
+        "seamark:light:3:sequence": "0.3+(0.3)+0.3+(2.1)",
+        "seamark:light:4:character": "Q",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:group": "2",
+        "seamark:light:4:height": "4",
+        "seamark:light:4:period": "3",
+        "seamark:light:4:range": "5",
+        "seamark:light:4:sector_end": "169",
+        "seamark:light:4:sector_start": "131",
+        "seamark:light:4:sequence": "0.3+(0.3)+0.3+(2.1)",
+        "seamark:light:5:character": "Q",
+        "seamark:light:5:colour": "green",
+        "seamark:light:5:group": "2",
+        "seamark:light:5:height": "4",
+        "seamark:light:5:period": "3",
+        "seamark:light:5:range": "5",
+        "seamark:light:5:sector_end": "113.5",
+        "seamark:light:5:sector_start": "108",
+        "seamark:light:5:sequence": "0.3+(0.3)+0.3+(2.1)",
+        "seamark:light:6:character": "Q",
+        "seamark:light:6:colour": "red",
+        "seamark:light:6:group": "2",
+        "seamark:light:6:height": "4",
+        "seamark:light:6:period": "3",
+        "seamark:light:6:range": "5",
+        "seamark:light:6:sector_end": "269.5",
+        "seamark:light:6:sector_start": "258.5",
+        "seamark:light:6:sequence": "0.3+(0.3)+0.3+(2.1)",
+        "seamark:name": "Kärrholm",
+        "seamark:radar_reflector": "yes",
+        "seamark:type": "light_major",
+        "wikidata": "Q62033112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1368133,
+          60.2008588
+        ]
+      },
+      "id": "node/377696419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409822882",
+        "description": "beacon",
+        "man_made": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1581122,
+          60.2006655
+        ]
+      },
+      "id": "node/409822882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1326351990",
+        "building": "tower",
+        "building:colour": "gray",
+        "building:height": "52",
+        "layer": "1",
+        "man_made": "lighthouse",
+        "name": "Bengtskärin majakka",
+        "name:en": "Bengtskär Lighthouse",
+        "name:sv": "Bengtskärs fyr",
+        "seamark:landmark:height": "46",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "white",
+        "seamark:light:group": "3",
+        "seamark:light:height": "51",
+        "seamark:light:period": "20",
+        "seamark:light:range": "10",
+        "seamark:light:reference": "C 4906",
+        "seamark:name": "Bengtskar",
+        "seamark:type": "landmark",
+        "start_date": "1906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4992613,
+          59.723439
+        ]
+      },
+      "id": "node/1326351990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1550164061",
+        "man_made": "lighthouse",
+        "name": "Sandbäckin majakka",
+        "name:fi": "Sandbäckin majakka",
+        "name:sv": "Sandbäck fyr",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "white",
+        "seamark:light:group": "3",
+        "seamark:light:height": "13",
+        "seamark:light:period": "10",
+        "seamark:light:range": "8",
+        "seamark:light:reference": "C 4450.4",
+        "seamark:light:sequence": "0.5+(1)+0.5+(1)+0.5+(6.5)",
+        "seamark:name": "Sandbacks Sodra",
+        "seamark:radar_transponder:category": "racon",
+        "seamark:radar_transponder:group": "T",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 116. 2011-07-07.;MML Maastokartta",
+        "wikidata": "Q11892345",
+        "wikipedia": "fi:Sandbäckin majakka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7402752,
+          60.7654479
+        ]
+      },
+      "id": "node/1550164061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1550164633",
+        "man_made": "lighthouse",
+        "name": "Kihti",
+        "seamark:information": "G. 083° -092° , W.-095° , R.-173° , G.-239° , W.-244° , R.-268° .Radar reflector.",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "3",
+        "seamark:light:1:height": "11",
+        "seamark:light:1:period": "10",
+        "seamark:light:1:range": "9",
+        "seamark:light:1:sector_end": "92",
+        "seamark:light:1:sector_start": "83",
+        "seamark:light:1:sequence": "0.3+(1.7),0.3+(1.7),0.3+(5.7)",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:group": "3",
+        "seamark:light:2:height": "11",
+        "seamark:light:2:period": "10",
+        "seamark:light:2:range": "9",
+        "seamark:light:2:sector_end": "95",
+        "seamark:light:2:sector_start": "92",
+        "seamark:light:2:sequence": "0.3+(1.7),0.3+(1.7),0.3+(5.7)",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "3",
+        "seamark:light:3:height": "11",
+        "seamark:light:3:period": "10",
+        "seamark:light:3:range": "9",
+        "seamark:light:3:sector_end": "173",
+        "seamark:light:3:sector_start": "95",
+        "seamark:light:3:sequence": "0.3+(1.7),0.3+(1.7),0.3+(5.7)",
+        "seamark:light:4:character": "Fl",
+        "seamark:light:4:colour": "green",
+        "seamark:light:4:group": "3",
+        "seamark:light:4:height": "11",
+        "seamark:light:4:period": "10",
+        "seamark:light:4:range": "9",
+        "seamark:light:4:sector_end": "239",
+        "seamark:light:4:sector_start": "173",
+        "seamark:light:4:sequence": "0.3+(1.7),0.3+(1.7),0.3+(5.7)",
+        "seamark:light:5:character": "Fl",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:group": "3",
+        "seamark:light:5:height": "11",
+        "seamark:light:5:period": "10",
+        "seamark:light:5:range": "9",
+        "seamark:light:5:sector_end": "244",
+        "seamark:light:5:sector_start": "239",
+        "seamark:light:5:sequence": "0.3+(1.7),0.3+(1.7),0.3+(5.7)",
+        "seamark:light:6:character": "Fl",
+        "seamark:light:6:colour": "red",
+        "seamark:light:6:group": "3",
+        "seamark:light:6:height": "11",
+        "seamark:light:6:period": "10",
+        "seamark:light:6:range": "9",
+        "seamark:light:6:sector_end": "268",
+        "seamark:light:6:sector_start": "244",
+        "seamark:light:6:sequence": "0.3+(1.7),0.3+(1.7),0.3+(5.7)",
+        "seamark:light:reference": "C 4630",
+        "seamark:name": "Kihti",
+        "seamark:radar_transponder:category": "racon",
+        "seamark:radar_transponder:group": "T",
+        "seamark:radar_transponder:period": "90",
+        "seamark:type": "light_major",
+        "source": "US NGA Pub. 116. 2011-07-07.",
+        "wikidata": "Q24356214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1376188,
+          60.0759476
+        ]
+      },
+      "id": "node/1550164633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1550164884",
+        "man_made": "lighthouse",
+        "name": "Lillharun",
+        "seamark:information": "G. 262° -340° , W.-045° , R.-101° , G.-148° , W.-156° , R.-172° .Radar reflector.",
+        "seamark:landmark:height": "9",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "17",
+        "seamark:light:1:period": "7",
+        "seamark:light:1:range": "10",
+        "seamark:light:1:sector_end": "340",
+        "seamark:light:1:sector_start": "262",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:height": "17",
+        "seamark:light:2:period": "7",
+        "seamark:light:2:range": "10",
+        "seamark:light:2:sector_end": "45",
+        "seamark:light:2:sector_start": "340",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:height": "17",
+        "seamark:light:3:period": "7",
+        "seamark:light:3:range": "10",
+        "seamark:light:3:sector_end": "101",
+        "seamark:light:3:sector_start": "45",
+        "seamark:light:4:character": "Fl",
+        "seamark:light:4:colour": "green",
+        "seamark:light:4:height": "17",
+        "seamark:light:4:period": "7",
+        "seamark:light:4:range": "10",
+        "seamark:light:4:sector_end": "148",
+        "seamark:light:4:sector_start": "101",
+        "seamark:light:5:character": "Fl",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:height": "17",
+        "seamark:light:5:period": "7",
+        "seamark:light:5:range": "10",
+        "seamark:light:5:sector_end": "156",
+        "seamark:light:5:sector_start": "148",
+        "seamark:light:6:character": "Fl",
+        "seamark:light:6:colour": "red",
+        "seamark:light:6:height": "17",
+        "seamark:light:6:period": "7",
+        "seamark:light:6:range": "10",
+        "seamark:light:6:sector_end": "172",
+        "seamark:light:6:sector_start": "156",
+        "seamark:light:reference": "C 4732",
+        "seamark:name": "Lillharun",
+        "seamark:radar_transponder:category": "racon",
+        "seamark:radar_transponder:group": "T",
+        "seamark:radar_transponder:period": "90",
+        "seamark:type": "landmark",
+        "source": "US NGA Pub. 116. 2011-07-07.",
+        "wikidata": "Q62023909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4006353,
+          59.7276904
+        ]
+      },
+      "id": "node/1550164884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1550168013",
+        "man_made": "lighthouse",
+        "name": "Galtarna",
+        "seamark:light:character": "VQ",
+        "seamark:light:colour": "yellow",
+        "seamark:light:group": "5",
+        "seamark:light:height": "7",
+        "seamark:light:period": "6",
+        "seamark:light:range": "2",
+        "seamark:light:reference": "C 4868",
+        "seamark:name": "Galtarna",
+        "seamark:radar_reflector": "yes",
+        "seamark:type": "light_minor",
+        "source": "US NGA Pub. 116. 2011-07-07."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6071167,
+          59.9171503
+        ]
+      },
+      "id": "node/1550168013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1841297487",
+        "man_made": "lighthouse",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "white",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "40",
+        "seamark:light:1:period": "12",
+        "seamark:light:1:range": "18",
+        "seamark:light:1:sector_end": "100",
+        "seamark:light:1:sector_start": "235",
+        "seamark:light:1:sequence": "(00.3+(03.2)+00.3+(08.2))",
+        "seamark:name": "Utö",
+        "seamark:type": "landmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3689334,
+          59.7809515
+        ]
+      },
+      "id": "node/1841297487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1866898498",
+        "man_made": "lighthouse",
+        "name": "Berghamnskobbe",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "8",
+        "seamark:light:1:period": "6",
+        "seamark:light:1:range": "6",
+        "seamark:light:1:sector_end": "113",
+        "seamark:light:1:sector_start": "90",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:group": "2",
+        "seamark:light:2:height": "8",
+        "seamark:light:2:period": "6",
+        "seamark:light:2:range": "6",
+        "seamark:light:2:sector_end": "117",
+        "seamark:light:2:sector_start": "113",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "2",
+        "seamark:light:3:height": "8",
+        "seamark:light:3:period": "6",
+        "seamark:light:3:range": "6",
+        "seamark:light:3:sector_end": "203.5",
+        "seamark:light:3:sector_start": "117",
+        "seamark:light:4:character": "Q",
+        "seamark:light:4:colour": "green",
+        "seamark:light:4:group": "2",
+        "seamark:light:4:height": "8",
+        "seamark:light:4:period": "6",
+        "seamark:light:4:range": "6",
+        "seamark:light:4:sector_end": "287",
+        "seamark:light:4:sector_start": "203.5",
+        "seamark:light:5:character": "Q",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:group": "2",
+        "seamark:light:5:height": "8",
+        "seamark:light:5:period": "6",
+        "seamark:light:5:range": "6",
+        "seamark:light:5:sector_end": "292",
+        "seamark:light:5:sector_start": "287",
+        "seamark:light:6:character": "Q",
+        "seamark:light:6:colour": "red",
+        "seamark:light:6:group": "2",
+        "seamark:light:6:height": "8",
+        "seamark:light:6:period": "6",
+        "seamark:light:6:range": "6",
+        "seamark:light:6:sector_end": "315",
+        "seamark:light:6:sector_start": "292",
+        "seamark:name": "Berghamnskobbe",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3200217,
+          60.16881
+        ]
+      },
+      "id": "node/1866898498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868264633",
+        "man_made": "lighthouse",
+        "name": "Flatökubb",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "9",
+        "seamark:light:1:period": "5",
+        "seamark:light:1:range": "8",
+        "seamark:light:1:sector_end": "216",
+        "seamark:light:1:sector_start": "195",
+        "seamark:light:1:sequence": "(00.3+(04.6))",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "red",
+        "seamark:light:2:height": "9",
+        "seamark:light:2:period": "5",
+        "seamark:light:2:range": "8",
+        "seamark:light:2:sector_end": "68",
+        "seamark:light:2:sector_start": "50",
+        "seamark:light:2:sequence": "(00.3+(04.6))",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "9",
+        "seamark:light:3:period": "5",
+        "seamark:light:3:range": "8",
+        "seamark:light:3:sector_end": "50",
+        "seamark:light:3:sector_start": "216",
+        "seamark:light:3:sequence": "(00.3+(04.6))",
+        "seamark:name": "Flatökubb",
+        "seamark:type": "light_major",
+        "wikidata": "Q62025097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6455433,
+          59.9368083
+        ]
+      },
+      "id": "node/1868264633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868264634",
+        "man_made": "lighthouse",
+        "name": "Norparskärsten",
+        "seamark:light:1:category": "front",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "red",
+        "seamark:light:1:height": "10",
+        "seamark:light:1:range": "6",
+        "seamark:light:1:sector_end": "260",
+        "seamark:light:1:sector_start": "228",
+        "seamark:light:2:category": "front",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:height": "10",
+        "seamark:light:2:range": "6",
+        "seamark:light:2:sector_end": "77",
+        "seamark:light:2:sector_start": "66",
+        "seamark:light:3:category": "front",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "10",
+        "seamark:light:3:range": "6",
+        "seamark:light:3:sector_end": "57",
+        "seamark:light:3:sector_start": "32",
+        "seamark:light:4:category": "front",
+        "seamark:light:4:character": "Q",
+        "seamark:light:4:colour": "green",
+        "seamark:light:4:height": "10",
+        "seamark:light:4:range": "6",
+        "seamark:light:4:sector_end": "222",
+        "seamark:light:4:sector_start": "127",
+        "seamark:light:5:category": "front",
+        "seamark:light:5:character": "Q",
+        "seamark:light:5:colour": "red",
+        "seamark:light:5:height": "10",
+        "seamark:light:5:range": "6",
+        "seamark:light:5:sector_end": "127",
+        "seamark:light:5:sector_start": "77",
+        "seamark:light:6:category": "front",
+        "seamark:light:6:character": "Q",
+        "seamark:light:6:colour": "white",
+        "seamark:light:6:height": "10",
+        "seamark:light:6:range": "6",
+        "seamark:light:6:sector_end": "228",
+        "seamark:light:6:sector_start": "222",
+        "seamark:light:7:category": "front",
+        "seamark:light:7:character": "Q",
+        "seamark:light:7:colour": "white",
+        "seamark:light:7:height": "10",
+        "seamark:light:7:range": "6",
+        "seamark:light:7:sector_end": "66",
+        "seamark:light:7:sector_start": "57",
+        "seamark:name": "Norparskärsten",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5822214,
+          59.8985471
+        ]
+      },
+      "id": "node/1868264634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868389236",
+        "man_made": "lighthouse",
+        "name": "Bondsten",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "6",
+        "seamark:light:1:period": "6",
+        "seamark:light:1:range": "7",
+        "seamark:light:1:sector_end": "9",
+        "seamark:light:1:sector_start": "318",
+        "seamark:light:1:sequence": "(00.3+(00.6)+00.3+(04.6))",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "green",
+        "seamark:light:2:group": "2",
+        "seamark:light:2:height": "6",
+        "seamark:light:2:period": "6",
+        "seamark:light:2:range": "7",
+        "seamark:light:2:sector_end": "161",
+        "seamark:light:2:sector_start": "138",
+        "seamark:light:2:sequence": "(00.3+(00.6)+00.3+(04.6))",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "2",
+        "seamark:light:3:height": "6",
+        "seamark:light:3:period": "6",
+        "seamark:light:3:range": "7",
+        "seamark:light:3:sector_end": "184",
+        "seamark:light:3:sector_start": "167",
+        "seamark:light:3:sequence": "(00.3+(00.6)+00.3+(04.6))",
+        "seamark:light:4:character": "Q",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:group": "2",
+        "seamark:light:4:height": "6",
+        "seamark:light:4:period": "6",
+        "seamark:light:4:range": "7",
+        "seamark:light:4:sector_end": "138",
+        "seamark:light:4:sector_start": "24.5",
+        "seamark:light:4:sequence": "(00.3+(00.6)+00.3+(04.6))",
+        "seamark:light:5:character": "Q",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:group": "2",
+        "seamark:light:5:height": "6",
+        "seamark:light:5:period": "6",
+        "seamark:light:5:range": "7",
+        "seamark:light:5:sector_end": "167",
+        "seamark:light:5:sector_start": "161",
+        "seamark:light:5:sequence": "(00.3+(00.6)+00.3+(04.6))",
+        "seamark:light:6:character": "Q",
+        "seamark:light:6:colour": "white",
+        "seamark:light:6:group": "2",
+        "seamark:light:6:height": "6",
+        "seamark:light:6:period": "6",
+        "seamark:light:6:range": "7",
+        "seamark:light:6:sector_end": "24.5",
+        "seamark:light:6:sector_start": "9",
+        "seamark:light:6:sequence": "(00.3+(00.6)+00.3+(04.6))",
+        "seamark:name": "Bondsten",
+        "seamark:type": "light_major",
+        "wikidata": "Q62032701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7068883,
+          59.9976967
+        ]
+      },
+      "id": "node/1868389236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868389238",
+        "man_made": "lighthouse",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "12",
+        "seamark:light:1:period": "4",
+        "seamark:light:1:range": "6",
+        "seamark:light:1:sector_end": "150",
+        "seamark:light:1:sector_start": "62",
+        "seamark:light:1:sequence": "(00.3+(03.7))",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "red",
+        "seamark:light:2:height": "12",
+        "seamark:light:2:period": "4",
+        "seamark:light:2:range": "6",
+        "seamark:light:2:sector_end": "242",
+        "seamark:light:2:sector_start": "154",
+        "seamark:light:2:sequence": "(00.3+(03.7))",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "12",
+        "seamark:light:3:period": "4",
+        "seamark:light:3:range": "6",
+        "seamark:light:3:sector_end": "154",
+        "seamark:light:3:sector_start": "150",
+        "seamark:light:3:sequence": "(00.3+(03.7))",
+        "seamark:name": "Nötö",
+        "seamark:type": "light_major",
+        "wikidata": "Q62025307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7490083,
+          59.949575
+        ]
+      },
+      "id": "node/1868389238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869789829",
+        "man_made": "lighthouse",
+        "name": "Holstasnäs",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "7",
+        "seamark:light:1:period": "3",
+        "seamark:light:1:sector_end": "8",
+        "seamark:light:1:sector_start": "172",
+        "seamark:light:1:sequence": "(00.5+(02.5))",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "red",
+        "seamark:light:2:height": "7",
+        "seamark:light:2:period": "3",
+        "seamark:light:2:sector_end": "24",
+        "seamark:light:2:sector_start": "12",
+        "seamark:light:2:sequence": "(00.5+(02.5))",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:height": "7",
+        "seamark:light:3:period": "3",
+        "seamark:light:3:sector_end": "12",
+        "seamark:light:3:sector_start": "8",
+        "seamark:light:3:sequence": "(00.5+(02.5))",
+        "seamark:name": "Holstasnäs",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6900772,
+          60.1558856
+        ]
+      },
+      "id": "node/1869789829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869789848",
+        "man_made": "lighthouse",
+        "name": "Kalvholm",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "7",
+        "seamark:light:1:period": "6",
+        "seamark:light:1:range": "4",
+        "seamark:light:1:sector_end": "297",
+        "seamark:light:1:sector_start": "271",
+        "seamark:light:1:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "green",
+        "seamark:light:2:group": "2",
+        "seamark:light:2:height": "7",
+        "seamark:light:2:period": "6",
+        "seamark:light:2:range": "4",
+        "seamark:light:2:sector_end": "197",
+        "seamark:light:2:sector_start": "180",
+        "seamark:light:2:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "2",
+        "seamark:light:3:height": "7",
+        "seamark:light:3:period": "6",
+        "seamark:light:3:range": "4",
+        "seamark:light:3:sector_end": "29",
+        "seamark:light:3:sector_start": "299",
+        "seamark:light:3:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:4:character": "Q",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:group": "2",
+        "seamark:light:4:height": "7",
+        "seamark:light:4:period": "6",
+        "seamark:light:4:range": "4",
+        "seamark:light:4:sector_end": "271",
+        "seamark:light:4:sector_start": "208",
+        "seamark:light:4:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:5:character": "Q",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:group": "2",
+        "seamark:light:5:height": "7",
+        "seamark:light:5:period": "6",
+        "seamark:light:5:range": "4",
+        "seamark:light:5:sector_end": "299",
+        "seamark:light:5:sector_start": "297",
+        "seamark:light:5:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:6:character": "Q",
+        "seamark:light:6:colour": "white",
+        "seamark:light:6:group": "2",
+        "seamark:light:6:height": "7",
+        "seamark:light:6:period": "6",
+        "seamark:light:6:range": "4",
+        "seamark:light:6:sector_end": "208",
+        "seamark:light:6:sector_start": "197",
+        "seamark:light:6:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:7:character": "Q",
+        "seamark:light:7:group": "2",
+        "seamark:light:7:height": "7",
+        "seamark:light:7:period": "6",
+        "seamark:light:7:range": "4",
+        "seamark:light:7:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:name": "Kalvholm",
+        "seamark:type": "light_major",
+        "wikidata": "Q62032636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6838067,
+          60.0863583
+        ]
+      },
+      "id": "node/1869789848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869789875",
+        "man_made": "lighthouse",
+        "name": "Kopphäll",
+        "seamark:light:1:character": "VQ",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "8",
+        "seamark:light:1:period": "3",
+        "seamark:light:1:range": "4",
+        "seamark:light:1:sector_end": "329",
+        "seamark:light:1:sector_start": "184",
+        "seamark:light:1:sequence": "(00.2+(00.3)+00.2+(02.3))",
+        "seamark:light:2:character": "VQ",
+        "seamark:light:2:colour": "red",
+        "seamark:light:2:group": "2",
+        "seamark:light:2:height": "8",
+        "seamark:light:2:period": "3",
+        "seamark:light:2:range": "4",
+        "seamark:light:2:sector_end": "4",
+        "seamark:light:2:sector_start": "333",
+        "seamark:light:2:sequence": "(00.2+(00.3)+00.2+(02.3))",
+        "seamark:light:3:character": "VQ",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:group": "2",
+        "seamark:light:3:height": "8",
+        "seamark:light:3:period": "3",
+        "seamark:light:3:range": "4",
+        "seamark:light:3:sector_end": "333",
+        "seamark:light:3:sector_start": "329",
+        "seamark:light:3:sequence": "(00.2+(00.3)+00.2+(02.3))",
+        "seamark:name": "Kopphäll",
+        "seamark:radar_reflector": "yes",
+        "seamark:type": "light_major",
+        "wikidata": "Q62032564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.671575,
+          60.1270333
+        ]
+      },
+      "id": "node/1869789875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869789889",
+        "man_made": "lighthouse",
+        "name": "Laang Ljusskär",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "7",
+        "seamark:light:1:period": "5",
+        "seamark:light:1:range": "7",
+        "seamark:light:1:sector_end": "353",
+        "seamark:light:1:sector_start": "333",
+        "seamark:light:1:sequence": "0.5+(4.5)",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "red",
+        "seamark:light:2:height": "7",
+        "seamark:light:2:period": "5",
+        "seamark:light:2:range": "7",
+        "seamark:light:2:sector_end": "200",
+        "seamark:light:2:sector_start": "357",
+        "seamark:light:2:sequence": "0.5+(4.5)",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:height": "7",
+        "seamark:light:3:period": "5",
+        "seamark:light:3:range": "7",
+        "seamark:light:3:sector_end": "357",
+        "seamark:light:3:sector_start": "353",
+        "seamark:light:3:sequence": "0.5+(4.5)",
+        "seamark:name": "Laang Ljusskär",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.692175,
+          60.0357667
+        ]
+      },
+      "id": "node/1869789889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869789903",
+        "man_made": "lighthouse",
+        "name": "Tärngrundet",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "6",
+        "seamark:light:1:range": "6",
+        "seamark:light:1:sector_end": "296",
+        "seamark:light:1:sector_start": "226",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "green",
+        "seamark:light:2:height": "6",
+        "seamark:light:2:range": "6",
+        "seamark:light:2:sector_end": "190",
+        "seamark:light:2:sector_start": "114",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:height": "6",
+        "seamark:light:3:range": "6",
+        "seamark:light:3:sector_end": "226",
+        "seamark:light:3:sector_start": "196",
+        "seamark:light:4:character": "Q",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:height": "6",
+        "seamark:light:4:range": "6",
+        "seamark:light:4:sector_end": "114",
+        "seamark:light:4:sector_start": "85",
+        "seamark:light:5:character": "Q",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:height": "6",
+        "seamark:light:5:sector_end": "196",
+        "seamark:light:5:sector_start": "190",
+        "seamark:name": "Tärngrundet",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6709333,
+          60.1112217
+        ]
+      },
+      "id": "node/1869789903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871357239",
+        "man_made": "lighthouse",
+        "name": "Rödskär",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:height": "25",
+        "seamark:light:1:period": "5",
+        "seamark:light:1:range": "12",
+        "seamark:light:1:sector_end": "219",
+        "seamark:light:1:sector_start": "156",
+        "seamark:light:1:sequence": "(01.0+(04.0))",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "green",
+        "seamark:light:2:height": "25",
+        "seamark:light:2:period": "5",
+        "seamark:light:2:range": "12",
+        "seamark:light:2:sector_end": "69.5",
+        "seamark:light:2:sector_start": "57",
+        "seamark:light:2:sequence": "(01.0+(04.0))",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "green",
+        "seamark:light:3:height": "25",
+        "seamark:light:3:period": "5",
+        "seamark:light:3:range": "12",
+        "seamark:light:3:sector_end": "35.5",
+        "seamark:light:3:sector_start": "35",
+        "seamark:light:3:sequence": "(01.0+(04.0))",
+        "seamark:light:4:character": "Fl",
+        "seamark:light:4:colour": "red",
+        "seamark:light:4:height": "25",
+        "seamark:light:4:period": "5",
+        "seamark:light:4:range": "12",
+        "seamark:light:4:sector_end": "240",
+        "seamark:light:4:sector_start": "226",
+        "seamark:light:4:sequence": "(01.0+(04.0))",
+        "seamark:light:5:character": "Fl",
+        "seamark:light:5:colour": "red",
+        "seamark:light:5:height": "25",
+        "seamark:light:5:period": "5",
+        "seamark:light:5:range": "12",
+        "seamark:light:5:sector_end": "156",
+        "seamark:light:5:sector_start": "74",
+        "seamark:light:5:sequence": "(01.0+(04.0))",
+        "seamark:light:6:character": "Fl",
+        "seamark:light:6:colour": "red",
+        "seamark:light:6:height": "25",
+        "seamark:light:6:period": "5",
+        "seamark:light:6:range": "12",
+        "seamark:light:6:sector_end": "57",
+        "seamark:light:6:sector_start": "51",
+        "seamark:light:6:sequence": "(01.0+(04.0))",
+        "seamark:light:7:character": "Fl",
+        "seamark:light:7:colour": "white",
+        "seamark:light:7:height": "25",
+        "seamark:light:7:period": "5",
+        "seamark:light:7:range": "12",
+        "seamark:light:7:sector_end": "74",
+        "seamark:light:7:sector_start": "69.5",
+        "seamark:light:7:sequence": "(01.0+(04.0))",
+        "seamark:light:8:character": "Fl",
+        "seamark:light:8:colour": "white",
+        "seamark:light:8:height": "25",
+        "seamark:light:8:period": "5",
+        "seamark:light:8:range": "12",
+        "seamark:light:8:sector_end": "51",
+        "seamark:light:8:sector_start": "45.5",
+        "seamark:light:8:sequence": "(01.0+(04.0))",
+        "seamark:light:9:character": "Fl",
+        "seamark:light:9:colour": "white",
+        "seamark:light:9:height": "25",
+        "seamark:light:9:period": "5",
+        "seamark:light:9:range": "12",
+        "seamark:light:9:sector_end": "226",
+        "seamark:light:9:sector_start": "219",
+        "seamark:light:9:sequence": "(01.0+(04.0))",
+        "seamark:name": "Rödskär",
+        "seamark:type": "light_major",
+        "wikidata": "Q62026062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3122361,
+          60.116422
+        ]
+      },
+      "id": "node/1871357239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871357291",
+        "man_made": "lighthouse",
+        "name": "Skälgrund",
+        "seamark:light:1:character": "Q",
+        "seamark:light:1:colour": "green",
+        "seamark:light:1:group": "2",
+        "seamark:light:1:height": "8",
+        "seamark:light:1:period": "6",
+        "seamark:light:1:range": "5",
+        "seamark:light:1:sector_end": "246",
+        "seamark:light:1:sector_start": "236",
+        "seamark:light:1:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:2:character": "Q",
+        "seamark:light:2:colour": "red",
+        "seamark:light:2:group": "2",
+        "seamark:light:2:height": "8",
+        "seamark:light:2:period": "6",
+        "seamark:light:2:range": "5",
+        "seamark:light:2:sector_end": "72",
+        "seamark:light:2:sector_start": "63.5",
+        "seamark:light:2:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:light:3:character": "Q",
+        "seamark:light:3:colour": "white",
+        "seamark:light:3:group": "2",
+        "seamark:light:3:height": "8",
+        "seamark:light:3:period": "6",
+        "seamark:light:3:range": "5",
+        "seamark:light:3:sector_end": "63.5",
+        "seamark:light:3:sector_start": "246",
+        "seamark:light:3:sequence": "(00.3+(00.7)+00.3+(04.7))",
+        "seamark:name": "Skälgrund",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26733,
+          60.1168971
+        ]
+      },
+      "id": "node/1871357291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726034984",
+        "man_made": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5089756,
+          60.0184511
+        ]
+      },
+      "id": "node/3726034984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972688184",
+        "man_made": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1028116,
+          60.25269
+        ]
+      },
+      "id": "node/4972688184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5697255607",
+        "man_made": "lighthouse",
+        "seamark:light:1:character": "Fl",
+        "seamark:light:1:colour": "red",
+        "seamark:light:1:group": "1",
+        "seamark:light:1:height": "13",
+        "seamark:light:1:period": "4",
+        "seamark:light:1:range": "11",
+        "seamark:light:1:sector_end": "194",
+        "seamark:light:1:sector_start": "173",
+        "seamark:light:1:sequence": "01.0+(03.0)",
+        "seamark:light:2:character": "Fl",
+        "seamark:light:2:colour": "white",
+        "seamark:light:2:group": "1",
+        "seamark:light:2:height": "13",
+        "seamark:light:2:period": "4",
+        "seamark:light:2:range": "11",
+        "seamark:light:2:sector_end": "204",
+        "seamark:light:2:sector_start": "202.4",
+        "seamark:light:2:sequence": "01.0+(03.0)",
+        "seamark:light:3:character": "Fl",
+        "seamark:light:3:colour": "red",
+        "seamark:light:3:group": "1",
+        "seamark:light:3:height": "13",
+        "seamark:light:3:period": "4",
+        "seamark:light:3:range": "11",
+        "seamark:light:3:sector_end": "31",
+        "seamark:light:3:sector_start": "20.1",
+        "seamark:light:3:sequence": "01.0+(03.0)",
+        "seamark:light:4:character": "Fl",
+        "seamark:light:4:colour": "white",
+        "seamark:light:4:group": "1",
+        "seamark:light:4:height": "13",
+        "seamark:light:4:period": "4",
+        "seamark:light:4:range": "11",
+        "seamark:light:4:sector_end": "173",
+        "seamark:light:4:sector_start": "172",
+        "seamark:light:4:sequence": "01.0+(03.0)",
+        "seamark:light:5:character": "Fl",
+        "seamark:light:5:colour": "white",
+        "seamark:light:5:group": "1",
+        "seamark:light:5:height": "13",
+        "seamark:light:5:period": "4",
+        "seamark:light:5:range": "11",
+        "seamark:light:5:sector_end": "20.1",
+        "seamark:light:5:sector_start": "16",
+        "seamark:light:5:sequence": "01.0+(03.0)",
+        "seamark:light:6:character": "Fl",
+        "seamark:light:6:colour": "green",
+        "seamark:light:6:group": "1",
+        "seamark:light:6:height": "13",
+        "seamark:light:6:period": "4",
+        "seamark:light:6:range": "11",
+        "seamark:light:6:sector_end": "202.4",
+        "seamark:light:6:sector_start": "194",
+        "seamark:light:6:sequence": "01.0+(03.0)",
+        "seamark:light:7:character": "Fl",
+        "seamark:light:7:colour": "red",
+        "seamark:light:7:group": "1",
+        "seamark:light:7:height": "13",
+        "seamark:light:7:period": "4",
+        "seamark:light:7:range": "11",
+        "seamark:light:7:sector_end": "257",
+        "seamark:light:7:sector_start": "204",
+        "seamark:light:7:sequence": "01.0+(03.0)",
+        "seamark:light:8:character": "Fl",
+        "seamark:light:8:colour": "green",
+        "seamark:light:8:group": "1",
+        "seamark:light:8:height": "13",
+        "seamark:light:8:period": "4",
+        "seamark:light:8:range": "11",
+        "seamark:light:8:sector_end": "172",
+        "seamark:light:8:sector_start": "166",
+        "seamark:light:8:sequence": "01.0+(03.0)",
+        "seamark:light:9:character": "Fl",
+        "seamark:light:9:colour": "green",
+        "seamark:light:9:group": "1",
+        "seamark:light:9:height": "13",
+        "seamark:light:9:period": "4",
+        "seamark:light:9:range": "11",
+        "seamark:light:9:sector_end": "16",
+        "seamark:light:9:sector_start": "257",
+        "seamark:light:9:sequence": "01.0+(03.0)",
+        "seamark:name": "Rajakari",
+        "seamark:radar_reflector": "yes",
+        "seamark:type": "light_major"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0966576,
+          60.3779681
+        ]
+      },
+      "id": "node/5697255607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7553417563",
+        "man_made": "lighthouse",
+        "name": "Holstanäs",
+        "name:de": "Leuchtturm Holstanäs",
+        "owner": "Väylävirasto",
+        "seamark:name": "Holstasnäs",
+        "seamark:notice:category": "speed_limit",
+        "seamark:notice:function": "regulation",
+        "seamark:notice:information": "16",
+        "seamark:notice:system": "cevni",
+        "seamark:type": "notice",
+        "vayla_class": "11",
+        "wikidata": "Q62032472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6896699,
+          60.1555476
+        ]
+      },
+      "id": "node/7553417563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7809845973",
+        "man_made": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1852575,
+          60.1917847
+        ]
+      },
+      "id": "node/7809845973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7839998805",
+        "man_made": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0894778,
+          60.2789688
+        ]
+      },
+      "id": "node/7839998805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7845483210",
+        "man_made": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8965415,
+          60.2529629
+        ]
+      },
+      "id": "node/7845483210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8863254358",
+        "man_made": "lighthouse",
+        "name": "Jänissaari",
+        "wikidata": "Q62030702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1795157,
+          60.4218518
+        ]
+      },
+      "id": "node/8863254358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8867281701",
+        "man_made": "lighthouse",
+        "name": "Kalkkiniemen loisto",
+        "name:de": "Leuchtturm Kalkkiniemi",
+        "name:en": "Kalkkiniemi Lighthouse",
+        "name:fi": "Kalkkiniemen loisto",
+        "name:sv": "Kalkuddens fyr",
+        "wikidata": "Q62030825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1680433,
+          60.4230421
+        ]
+      },
+      "id": "node/8867281701"
+    }
+  ]
+}
