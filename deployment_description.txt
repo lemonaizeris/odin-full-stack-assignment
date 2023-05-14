@@ -1,0 +1,24 @@
+To deploy odin-api:
+    Firstly we need to decide where the server is going to be hosted. It can be some computer
+    of our own but one way or another it should be a computer that is only used for hosting
+    odin-api. One option is to use AWS EC2 and set up an instance there preferably with
+    Ubuntu. Alternatively, we can expose a certain computer of our own to the public and
+    host there. Whatever the choice is when we have the computer ready we need to install
+    NGINX on it and configure reverse proxy so that it routes public address access to the
+    localhost port on which odin-api is running. Now by going to odin-api and running it
+    with 'uvicorn main:app' the backend app can be accessed from the outside of the network
+    thanks to NGINX.
+
+
+To deploy odin-ui:
+    We want to run odin-ui separately from odin-api on a different AWS EC2 instance
+    or on a different device that we manage ourselves. This device should also have NGINX
+    installed on it just like for the odin-api server. When it comes to software setup,
+    first of all, we need to create .env files with IP and Port of odin-api backend.
+    Having .env means that there's no need for config.json file and all the variables
+    taken from there should be replaced with .env variables. To actually deploy odin-ui
+    React frontend for production the first thing to do is to build the app. That can be
+    done with a command 'npm run build'. This will create 'build' folder which should be
+    copied to another location to avoid accidental file changes. Now we can use NGINX to
+    configure to listen to public https requests and by specifying the copied 'build'
+    folder's location, NGINX takes care that public access sees the built odin-ui app.
